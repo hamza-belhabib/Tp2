@@ -1,4 +1,4 @@
-package partie01;
+package partie123;
 
 //    PARTIE 1 * Classe CompteBancaire
 
